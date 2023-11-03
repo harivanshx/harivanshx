@@ -12,6 +12,7 @@
   <br>
 ⚡ Fun fact: Just a cup of coffee can make you code faster.
 </p>
+<img align="right" alt="coding gif" width="100%" src="https://holopin.me/harivanshx">
 [![An image of @harivanshx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harivanshx)](https://holopin.io/@harivanshx)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harivanshx&label=Profile%20views&color=0e75b6&style=flat" alt="harivanshx" /> </p>
 

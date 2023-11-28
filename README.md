@@ -1,4 +1,4 @@
-[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/getlost01)](https://holopin.io/@harivanshx)
+[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harivanshx)](https://holopin.io/@harivanshx)
 
 <h2 align="center">Hi 👋, I'm Harivansh Bhardwaj</h2>
 

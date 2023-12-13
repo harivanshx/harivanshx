@@ -77,7 +77,7 @@
 ```text
 From: 24 January 2023 - To: 02 October 2023
 
-Total Time: 417 hrs 36 mins
+Total Time: 37 hrs 36 mins
 
 TypeScript     15 hrs 24 mins ████████████▒░░░░░░░░░░░░   49.19 %
 C++            12 hrs 57 mins  █████░░░░░░░░░░░░░░░░░░░░   19.87 %

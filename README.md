@@ -81,9 +81,7 @@ Task manager with local storage, dark mode, animations, and habit tracking.
   *PiSoft Informatics* — *Jan 2025 – Apr 2025*  
   Built and maintained modules in a Project Management App (frontend + backend).
 
-- **Project Trainee**  
-  *CDAC Noida* — *Jun 2022 – Dec 2022*  
-  Contributed to research & development of government web apps and DB systems.
+
 
 - **Community Member**  
   *Fufu Turtles* — *Since 2024*  
@@ -137,6 +135,9 @@ Task manager with local storage, dark mode, animations, and habit tracking.
 ---
 
 <p align="center">
+  <br>
+  changes made by Pooja Pawar <br/>
   Thanks for scrolling 🙏 <br/>
   <b>Let's build something meaningful together.</b>
+  
 </p>

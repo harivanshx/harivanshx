@@ -135,8 +135,7 @@ Task manager with local storage, dark mode, animations, and habit tracking.
 ---
 
 <p align="center">
-  <br>
-  changes made by Pooja Pawar <br/>
+
   Thanks for scrolling 🙏 <br/>
   <b>Let's build something meaningful together.</b>
   

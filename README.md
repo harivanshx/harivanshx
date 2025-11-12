@@ -1,7 +1,9 @@
+
+
 [![Holopin Badges](https://holopin.me/harivanshx)](https://holopin.io/@harivanshx)
 
 <h1 align="center">Hi 👋, I'm Harivansh Bhardwaj</h1>
-<h3 align="center">Software Developer | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">AI & Machine Learning Engineer | Tech Explorer | Deep Thinker</h3>
 
 <p align="center">
   <i>“As a man thinketh in his heart, so is he.” — James Allen</i>
@@ -11,110 +13,127 @@
 
 ### 🧑‍💻 About Me
 
-- 🧘‍♂️ A disciplined and growth-oriented **Software Developer** from **Chandigarh, India**
-- 🎓 B.Tech Computer Science Graduate – Class of 2025
-- 🛠️ Passionate about building modern **Web & Mobile** experiences that solve real-world problems
-- 🕉️ Krishna devotee who values mindfulness, integrity & deep focus
-- 🧠 Constant learner, currently diving deeper into **Full-Stack Dev**, **AI tools**, and **productivity systems**
+* 🧘‍♂️ A focused and growth-driven **AI & Machine Learning Engineer** from **Chandigarh, India**
+* 🎓 B.Tech in Computer Science – Class of 2025
+* 🧠 Passionate about building **intelligent systems** that solve real-world problems
+* 🕉️ Krishna devotee who values **mindfulness, discipline, and clarity of thought**
+* 🚀 Constant learner, currently exploring **Deep Learning, NLP, Computer Vision**, and **AI SaaS tools**
 
 ---
 
 ### 📍 Quick Info
 
-| Attribute       | Details                          |
-|----------------|----------------------------------|
-| **Age**         | 22 years old                     |
-| **Location**    | Chandigarh, India                |
-| **Email**       | harivanshb1@gmail.com            |
-| **Portfolio**   | [GitHub Projects](https://github.com/harivanshx) |
-| **Twitter/X**   | [@harivanshx](https://twitter.com/harivanshx)     |
+| Attribute     | Details                                               |
+| ------------- | ----------------------------------------------------- |
+| **Age**       | 22 years old                                          |
+| **Location**  | Chandigarh, India                                     |
+| **Email**     | [harivanshb1@gmail.com](mailto:harivanshb1@gmail.com) |
+| **Portfolio** | [GitHub Projects](https://github.com/harivanshx)      |
+| **Twitter/X** | [@harivanshx](https://twitter.com/harivanshx)         |
 
 ---
 
 ### 🧭 My Approach
 
-I bring discipline, minimalism, and purpose to development. Whether it's a SaaS tool or a hackathon project, I believe in clean code, clarity of thought, and consistency in execution.  
+I approach **AI development with clarity and purpose** — combining mathematics, creativity, and spiritual discipline.
+Whether it’s a deep learning model or an AI-powered SaaS tool, I emphasize **clean logic**, **ethical AI**, and **continuous learning**.
 
-I avoid distractions (including social media & time-wasting habits) to stay aligned with my **tech goals, fitness**, and **spiritual journey**.
-
----
-
-### 🚧 My Projects
-
-#### 🚀 [**Waste 2 Wealth**](https://github.com/harivanshx/Waste2Wealth)
-Sustainable e-commerce platform that rewards users for recycling & responsible buying.
-> **Next.js · MongoDB · Tailwind CSS · Stripe**
+I avoid distractions and maintain a balance between **tech, fitness**, and **spiritual practice** to stay aligned with my purpose.
 
 ---
 
-#### 🧠 [**Manipulated Facial Image Detection**](https://github.com/harivanshx/ManipulatedFaceDetection)
-An AI/ML tool using computer vision to detect tampered facial images.
-> **Python · Jupyter Notebook · TensorFlow · OpenCV**
+### 🚧 Featured Projects
+
+#### 🤖 [**Manipulated Facial Image Detection**](https://github.com/harivanshx/ManipulatedFaceDetection)
+
+An AI model that detects tampered or fake facial images using deep learning.
+
+> **Python · TensorFlow · OpenCV · NumPy · Jupyter Notebook**
 
 ---
 
-#### 🤖 [**AI SaaS Platform**](https://github.com/harivanshx/ai-saas)
-A subscription-based platform with multiple AI tools (image, content, code) built with Stripe billing.
+#### 🧩 [**AI SaaS Platform**](https://github.com/harivanshx/ai-saas)
+
+A subscription-based platform that integrates multiple AI tools (text, code, image generation).
+
 > **Next.js · OpenAI API · Stripe · Tailwind CSS**
 
 ---
 
-#### 🌍 [**Language Learning App**](https://github.com/harivanshx/lang-app)
-Built in 3 days: A spaced-repetition-based language learning mobile app.
-> **React Native · Expo · AsyncStorage**
+#### 🧠 [**BrainWave Classifier**](#)
+
+A neural network experiment for classifying EEG brainwave data.
+
+> **PyTorch · Scikit-learn · Pandas · Matplotlib**
 
 ---
 
-#### 📋 [**Productivity App**](https://github.com/harivanshx/productivity-app)
-Task manager with local storage, dark mode, animations, and habit tracking.
+#### 🗣️ [**Language Learning Chatbot**](https://github.com/harivanshx/lang-app)
+
+An NLP-based chatbot for conversational language learning and grammar correction.
+
+> **React Native · Hugging Face Transformers · Python (Flask API)**
+
+---
+
+#### 📊 [**Productivity & Focus Tracker**](https://github.com/harivanshx/productivity-app)
+
+Tracks habits, focus sessions, and learning time — optimized for developers.
+
 > **React Native · Expo · Reanimated**
 
 ---
 
 ### 💼 Experience
 
-- **Junior Software Developer**  
-  *Kodvidya Technologies* — *Apr 2025 – Present*  
-  Developed new features for a music streaming web app. Optimized performance and UX.
+* **AI/ML Developer Intern**
+  *PiSoft Informatics* — *Jan 2025 – Apr 2025*
+  Worked on computer vision pipelines and ML model optimization for real-time applications.
 
-- **Software Development Intern**  
-  *PiSoft Informatics* — *Jan 2025 – Apr 2025*  
-  Built and maintained modules in a Project Management App (frontend + backend).
+* **Junior Software Developer**
+  *Kodvidya Technologies* — *Apr 2025 – Present*
+  Developed AI-powered recommendation systems and integrated APIs for a music streaming web app.
 
-
-
-- **Community Member**  
-  *Fufu Turtles* — *Since 2024*  
-  Part of a Chandigarh-based running group promoting health & well-being.
+* **Community Member**
+  *Fufu Turtles* — *Since 2024*
+  Member of a Chandigarh-based running and wellness community promoting health & focus.
 
 ---
 
 ### 💡 Skills & Tools
 
-#### 🌐 Frontend  
-`React.js` · `Next.js (13 App Router)` · `Tailwind CSS` · `React Native` · `Expo`
+#### 🤖 Machine Learning
 
-#### 🧰 Backend  
-`Node.js` · `Express.js`
+`Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras` · `Pandas` · `NumPy`
 
-#### 🗃️ Database  
+#### 🧠 Deep Learning & AI
+
+`CNNs` · `RNNs` · `Transformers` · `Computer Vision` · `NLP` · `LLMs`
+
+#### 🧰 Backend
+
+`Python (Flask/FastAPI)` · `Node.js` · `Express.js`
+
+#### 🌐 Frontend
+
+`React.js` · `Next.js` · `Tailwind CSS` · `React Native` · `Expo`
+
+#### 🗃️ Database
+
 `MongoDB` · `Firebase` · `PostgreSQL`
 
-#### ⚙️ State Management  
-`Zustand` · `Redux`
+#### ⚙️ Tools & Platforms
 
-#### 🛠️ Dev Tools & APIs  
-`Git & GitHub` · `Stripe Integration` · `OpenAI API` · `Vercel` · `AWS` · `Linux`  
-`Postman` · `VS Code` · `Figma`
+`Git & GitHub` · `OpenAI API` · `Hugging Face` · `AWS` · `Vercel` · `Google Colab` · `Linux`
 
 ---
 
-### 🧠 Mindset
+### 🧘 Mindset
 
-- 📈 Consistent learner and doer  
-- 🧘‍♂️ Balanced between **tech**, **fitness**, and **spirituality**  
-- 🔍 Curious to explore how tech can serve humanity  
-- ✍️ Building personal brand on Twitter/X, sharing dev thoughts & productivity hacks
+* 📈 Committed to lifelong learning & disciplined growth
+* 🧘‍♂️ Blends **AI, mindfulness, and philosophy** for meaningful innovation
+* 🔍 Curious about **ethical AI** and **human–machine collaboration**
+* ✍️ Shares AI insights & productivity thoughts on **Twitter/X**
 
 ---
 
@@ -135,8 +154,8 @@ Task manager with local storage, dark mode, animations, and habit tracking.
 ---
 
 <p align="center">
-
   Thanks for scrolling 🙏 <br/>
-  <b>Let's build something meaningful together.</b>
-  
+  <b>Let's build something intelligent and impactful together.</b>
 </p>
+
+

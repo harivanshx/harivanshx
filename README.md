@@ -8,6 +8,10 @@
 </p>
 
 ---
+###  📖Reading 
+O'REILLY® Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow
+
+--- 
 
 ### 🧑‍💻 About Me
 

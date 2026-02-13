@@ -1,200 +1,176 @@
 [![Holopin Badges](https://holopin.me/harivanshx)](https://holopin.io/@harivanshx)
 
 <h1 align="center">Hi 👋, I'm Harivansh Bhardwaj</h1>
-<h3 align="center">Machine Learning Engineer | PG-DAI @ C-DAC Noida | AI Practitioner</h3>
+<h3 align="center">Machine Learning Engineer • AI Systems Builder • PG-DAI @ C-DAC Noida</h3>
 
 <p align="center">
-  <i>“As a man thinketh in his heart, so is he.” — James Allen</i>
+  Building deployable AI systems — not just notebooks.
 </p>
 
 ---
-###  📖Reading 
-O'REILLY® Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow
 
---- 
+## 🧠 About Me
 
-### 🧑‍💻 About Me
+I’m a Computer Science graduate pursuing **PG-DAI (Artificial Intelligence)** at **C-DAC Noida**, focused on building **end-to-end ML systems** — from model training to deployment and real-world integration.
 
-* 🇮🇳 Machine Learning Engineer from **Noida, India**
-* 🎓 Pursuing **Post Graduate Diploma in Artificial Intelligence (PG-DAI)** at **C-DAC Noida**
-* 🤖 Working on **Indic Language Hate Speech Detection** using BERT & mBERT
-* 🧠 Experienced in building **end-to-end ML pipelines**, MLOps workflows & full-stack AI systems
-* 🚀 Strong foundation in **Deep Learning, NLP, Computer Vision, MLOps, and Model Deployment**
-* 🧘‍♂️ Driven by clarity, discipline & a balanced approach — blending technology with mindfulness
+My work sits at the intersection of:
 
----
+* Machine Learning engineering
+* NLP & computer vision systems
+* AI backend deployment
+* Containerized ML workflows
 
-### 📍 Quick Info
-
-| Attribute     | Details                                                                   |
-| ------------- | ------------------------------------------------------------------------- |
-| **Phone**     | +91 9058893943                                                            |
-| **Email**     | [b.harivanshh@gmail.com](mailto:b.harivanshh@gmail.com)                   |
-| **LinkedIn**  | [linkedin.com/in/harivanshbhardwaj](https://www.linkedin.com/in/harivanshbhardwaj) |
-| **Portfolio** | [harivanshdev.netlify.app](https://harivanshdev.netlify.app/)             |
-| **Blog**      | [harivanshdev.netlify.app/blog](https://harivanshdev.netlify.app/)        |
-| **Twitter/X** | [@harivanshx](https://twitter.com/harivanshx)                             |
+Currently working on **Indic-language hate speech detection** using transformer models and production-style pipelines.
 
 ---
 
-### 🧭 My Approach
+## 🚀 What I Actually Build
 
-I build impactful AI systems rooted in:
-- **Mathematical clarity**
-- **Ethical AI development**
-- **Structured thinking**
-- **MLOps-driven automation**
-- **Clean & maintainable engineering**
+✔ Train and evaluate ML models
+✔ Build APIs around AI systems
+✔ Containerize ML workflows
+✔ Deploy real applications
+✔ Integrate AI into usable products
 
-My workflow blends **AI engineering + spiritual mindfulness**, enabling deep focus and consistent growth.
-
----
-
-### 🚀 Featured Work & Projects
-
-#### 🛡️ **Indic Language Hate Speech Detection — C-DAC Major Project**
-Team project developing a multilingual hate speech moderation system using:
-> **BERT · mBERT · PyTorch · Hugging Face Transformers · FastAPI · Streamlit · Docker**
+Goal: move ideas → working systems → deployable software.
 
 ---
 
-#### 🤖 [Manipulated Facial Image Detection](https://github.com/harivanshx/ManipulatedFaceDetection)
-A deep learning model to detect fake/tampered faces.
-> **TensorFlow · OpenCV · NumPy**
+## 🔥 Featured Projects
+
+### 🛡 Indic Language Hate Speech Detection — C-DAC Major Project
+
+Multilingual hate speech moderation system using transformer models.
+
+**Stack:** PyTorch • BERT/mBERT • Hugging Face • FastAPI • Streamlit • Docker
+
+* Built classification pipeline for Indic text
+* Integrated inference API
+* Containerized deployment workflow
 
 ---
 
-#### 🧩 [AI SaaS Platform](https://github.com/harivanshx/ai-saas)
-A production-ready SaaS integrating text, code & image generation tools.
-> **Next.js · Stripe · OpenAI API · Tailwind CSS**
+### 🚦 Suraksha — AI Traffic Management System
+
+Computer vision system for intelligent traffic signal optimization.
+
+**Stack:** YOLOv8 • OpenCV • FastAPI • Docker
+
+* Vehicle detection pipeline
+* Accident alert logic
+* API integration + deployment architecture
+
+👉 Repo: https://github.com/harivanshx/Suraksha-AI-Traffic-Management-System
 
 ---
 
-#### 🧠 BrainWave Classifier (EEG ML Project)
-Neural network model for EEG signal pattern recognition.
-> **PyTorch · Scikit-learn · Pandas**
+### 💼 AI SaaS Platform — Multi-tool AI Suite
+
+Production-style AI platform integrating chat, image, and code generation.
+
+**Stack:** Next.js • OpenAI API • Stripe • Tailwind • Vercel
+
+* Subscription workflow integration
+* API rate handling
+* Multi-service architecture
+
+👉 Repo: https://github.com/harivanshx/ai-saas
 
 ---
 
-#### 🗣️ [Language Learning Chatbot](https://github.com/harivanshx/lang-app)
-Conversational bot for language learning and grammar correction.
-> **React Native · Python (Flask) · Hugging Face**
+### 📉 Real-Time Customer Churn Predictor
+
+End-to-end ML pipeline predicting customer churn with explainability.
+
+**Stack:** Scikit-learn • XGBoost • SHAP • FastAPI • Docker
+
+* Ensemble modeling pipeline
+* Explainability layer
+* API-ready backend
 
 ---
 
-#### 📊 [Productivity & Focus Tracker](https://github.com/harivanshx/productivity-app)
-Tracks sessions, habits & learning focus.
-> **React Native · Expo**
+### 🧠 EEG BrainWave Classifier
+
+Signal classification model using neural networks.
+
+**Stack:** PyTorch • Pandas • Scikit-learn
+
+* EEG feature pipeline
+* Model training + evaluation
 
 ---
 
-### 💼 Experience
+## 💼 Experience Snapshot
 
-#### **🎓 C-DAC Noida — PG-DAI**
-*September 2025 – Present*  
-- Building **Indic Language Hate Speech Moderator** using BERT/mBERT  
-- Hands-on: **PyTorch, Transformers, FastAPI, Streamlit, Docker**  
-- Completed coursework in **DL, CV, NLP, MLOps**
+**PG-DAI AI Trainee — C-DAC Noida**
+Hands-on ML systems, NLP pipelines, deployment workflows.
 
----
+**Software Developer Intern — PiSoft Informatics**
+Built REST APIs and ML-integrated backend services.
 
-#### **💻 Junior Software Developer — KodVidya Technologies**  
-*April 2025 – July 2025*  
-- Built AI-powered recommendation systems  
-- Integrated backend APIs for music streaming platform  
+**Cybersecurity Intern — C-DAC CyberGyan**
+Linux security practices and vulnerability analysis.
 
 ---
 
-#### **🛡️ Ethical Hacking Intern — C-DAC Noida**
-*Aug 2024 – Oct 2024*
+## 🛠 Skills
 
-#### **🔐 Cybersecurity Analyst Simulation — Tata Group**
-*Jul 2024 – Sep 2024*
+### ML / AI
 
-#### **🌐 Full-Stack Developer — inQbator**
-*Dec 2023 – Jul 2024*
+PyTorch • TensorFlow • Transformers • Scikit-learn
+NLP • Computer Vision • Model Evaluation
 
-#### **☁️ Contributor — GDSC IKGPTU**
-*May 2024 – Jun 2024*
+### Backend & Deployment
 
-#### **❄️ Contributor — Social Winter of Code**
-*Sep 2023 – Dec 2023*
+FastAPI • Flask • Docker • Git • Linux
+API integration • ML containerization
 
-#### **💼 Intern — Code Casa**
-*Sep 2023 – Oct 2023*
+### Web Stack
 
-#### **🎯 Placement Coordinator — Training & Placement Cell**
-*May 2022 – Sep 2022*
+React • Next.js • Node.js • Tailwind
 
----
+### Tools
 
-### 🎓 Education
-
-**Punjab Technical University**  
-B.Tech in Computer Science (2021–2025)
-
-**M.G. Public School**  
-PCM (2021)
+Hugging Face • Postman • VS Code • Streamlit
 
 ---
 
-### 🧾 Certifications
+## 🎓 Education
 
-- Innovating with Data and Google Cloud  
-- Introduction to Large Language Models  
-- SSOC Season 2  
-- Career Essentials in Generative AI — Microsoft & LinkedIn  
-- Social Winter of Code  
+**PG Diploma — Artificial Intelligence**
+C-DAC Noida (2025–Present)
 
----
-
-### 💡 Skills & Tools
-
-#### 🤖 Core ML & AI
-`PyTorch` · `TensorFlow` · `Transformers` · `Scikit-learn`  
-`NLP` · `Computer Vision` · `MLOps` · `LLMs`
-
-#### 🧰 Backend & APIs
-`Python` · `FastAPI` · `Flask` · `Node.js` · `Express.js`
-
-#### 🌐 Frontend
-`React.js` · `Next.js` · `Tailwind CSS` · `React Native` · `Expo`
-
-#### 🗃️ Databases
-`MongoDB` · `PostgreSQL` · `Firebase`
-
-#### ⚙️ DevOps & Tools
-`Docker` · `Git/GitHub` · `AWS` · `Hugging Face` · `Vercel`  
-`Streamlit` · `Google Colab` · `Linux`
+**B.Tech — Computer Science & Engineering**
+Punjab Technical University
 
 ---
 
-### 🧘 Mindset
+## 📚 Currently Learning
 
-- Constant learner with disciplined growth  
-- Blends **AI research + mindfulness + philosophy**  
-- Advocates ethical AI & responsible deployment  
-- Passionate about Indic-language NLP  
+📖 *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*
+Production ML workflows and model deployment patterns.
 
 ---
 
-### 📬 Get in Touch
+## 🧭 Engineering Philosophy
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/harivanshbhardwaj/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:b.harivanshh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/harivanshx">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+* Build systems that run — not demos that impress
+* Prefer clarity over hype
+* Focus on deployable AI
+* Iterate → measure → improve
+
+---
+
+## 📬 Connect
+
+LinkedIn → https://linkedin.com/in/harivanshbhardwaj
+Portfolio → https://harivanshbhardwaj.in
+Blog → https://harivanshbhardwaj.in/blog
+GitHub → https://github.com/harivanshx
 
 ---
 
 <p align="center">
-  Thanks for scrolling 🙏 <br/>
-  <b>Let’s build intelligent and impactful AI systems together.</b>
+  Thanks for visiting — always building something new 🚀
 </p>

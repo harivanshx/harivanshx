@@ -38,18 +38,6 @@ Goal: move ideas → working systems → deployable software.
 
 ## 🔥 Featured Projects
 
-### 🛡 Indic Language Hate Speech Detection — C-DAC Major Project
-
-Multilingual hate speech moderation system using transformer models.
-
-**Stack:** PyTorch • BERT/mBERT • Hugging Face • FastAPI • Streamlit • Docker
-
-* Built classification pipeline for Indic text
-* Integrated inference API
-* Containerized deployment workflow
-
----
-
 ### 🚦 Suraksha — AI Traffic Management System
 
 Computer vision system for intelligent traffic signal optimization.
@@ -90,14 +78,15 @@ End-to-end ML pipeline predicting customer churn with explainability.
 
 ---
 
-### 🧠 EEG BrainWave Classifier
+### 🛡 Indic Language Hate Speech Detection — C-DAC Major Project
 
-Signal classification model using neural networks.
+Multilingual hate speech moderation system using transformer models.
 
-**Stack:** PyTorch • Pandas • Scikit-learn
+**Stack:** PyTorch • BERT/mBERT • Hugging Face • FastAPI • Streamlit • Docker
 
-* EEG feature pipeline
-* Model training + evaluation
+* Built classification pipeline for Indic text
+* Integrated inference API
+* Containerized deployment workflow
 
 ---
 

@@ -1,214 +1,181 @@
 [![Holopin Badges](https://holopin.me/harivanshx)](https://holopin.io/@harivanshx)
 
-<h1 align="center">Hi 👋, I'm Harivansh Bhardwaj</h1>
-<h3 align="center">Machine Learning Engineer • AI Systems Builder • PG-DAI @ C-DAC Noida</h3>
+<h1 align="center">Harivansh Bhardwaj</h1>
+<h3 align="center">Machine Learning Engineer | AI Systems Builder | PG-DAI, C-DAC Noida</h3>
 
 <p align="center">
-  Building deployable AI systems — not just notebooks.
+Focused on building production-ready AI systems, not just experimental models.
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
-I’m a Computer Science graduate pursuing **PG-DAI (Artificial Intelligence)** at **C-DAC Noida**, focused on building **end-to-end ML systems** — from model training to deployment and real-world integration.
+I am a Computer Science graduate currently pursuing a Post Graduate Diploma in Artificial Intelligence (PG-DAI) at C-DAC Noida. My work focuses on developing end-to-end machine learning systems, from model development to deployment and real-world integration.
 
-My work sits at the intersection of:
+I have hands-on experience in building scalable AI pipelines using modern ML frameworks, containerization, and API-driven architectures. My primary interests include natural language processing, applied computer vision, and production ML systems.
 
-• Machine Learning Engineering
-• NLP & Computer Vision Systems
-• AI Backend Deployment
-• MLOps & Containerized Workflows
-
-Currently working on **Indic-Language Hate Speech Detection** using transformer models and production-style pipelines.
+At present, I am working on an Indic language hate speech detection system using transformer-based models.
 
 ---
 
-## 🚀 What I Actually Build
+## Core Areas of Work
 
-✔ Train and evaluate ML models
-✔ Build APIs around AI systems
-✔ Containerize ML workflows
-✔ Deploy real applications
-✔ Integrate AI into usable products
-
-**Goal:** Move ideas → working systems → deployable software.
+* Machine learning model development and evaluation
+* API-driven AI system design
+* Deployment and containerization of ML workflows
+* Integration of AI capabilities into production applications
 
 ---
 
-# 🔥 Featured Projects
+## Selected Projects
+
+### Suraksha — AI Traffic Management System
+
+Computer vision–based traffic monitoring and signal optimization system designed to analyze real-time traffic density and improve congestion management.
+
+Technologies: YOLOv8, OpenCV, FastAPI, Docker
+
+Key contributions:
+
+* Implemented vehicle detection and counting pipeline
+* Designed accident alert logic
+* Built API architecture for system integration
+
+Repository:
+https://github.com/harivanshx/Suraksha-AI-Traffic-Management-System
 
 ---
 
-## 🚦 Suraksha — AI Traffic Management System
+### Indic Language Hate Speech Detection System
 
-Computer vision system for intelligent traffic signal optimization.
+A multilingual moderation system developed as a major academic project at C-DAC.
 
-**Stack:** YOLOv8 • OpenCV • FastAPI • Docker
+Technologies: PyTorch, Hugging Face Transformers, BERT, FastAPI, Streamlit, Docker
 
-• Vehicle detection pipeline
-• Accident alert logic
-• Real-time density analysis
-• API-based deployment architecture
+Key contributions:
 
-👉 https://github.com/harivanshx/Suraksha-AI-Traffic-Management-System
-
----
-
-## 🛡 Indic Language Hate Speech Detection — C-DAC Major Project
-
-Multilingual hate speech moderation system using transformer models.
-
-**Stack:** PyTorch • BERT/mBERT • Hugging Face • FastAPI • Streamlit • Docker
-
-• Built multilingual classification pipeline
-• Integrated inference API
-• Designed deployment workflow
+* Built classification pipeline for Indic-language text
+* Developed inference API for real-time prediction
+* Designed deployment-ready architecture
 
 ---
 
-## 💼 AI-Powered Ad Compliance Auditor
+### AI-Powered Advertisement Compliance Auditor
 
-AI system that automatically checks advertisement content for policy violations.
+AI system for automated analysis of advertisement content to detect policy violations.
 
-**Stack:** Python • NLP • LLM APIs • FastAPI
+Technologies: Python, NLP techniques, LLM APIs, FastAPI
 
-• Automated ad text moderation
-• Policy compliance scoring
-• AI-driven content analysis
+Key contributions:
 
-👉 https://github.com/harivanshx/AI-powered-ad-compliance-auditor
+* Implemented automated content moderation logic
+* Developed scoring framework for compliance evaluation
 
----
-
-## 🤖 AI News Aggregator
-
-Intelligent news aggregation platform powered by AI.
-
-**Stack:** Python • NLP • APIs
-
-• Automated news scraping
-• Categorization using NLP
-• Real-time aggregation pipeline
-
-👉 https://github.com/harivanshx/AI-News-Aggregator
+Repository:
+https://github.com/harivanshx/AI-powered-ad-compliance-auditor
 
 ---
 
-## 📚 LearnkNow — Developer Learning Platform
+### AI News Aggregator
 
-Web platform for organizing learning resources.
+Automated news collection and categorization platform.
 
-**Stack:** JavaScript • Web Development
+Technologies: Python, NLP, data pipelines
 
-• Resource categorization system
-• Clean UI learning dashboard
+Key contributions:
 
-👉 https://github.com/harivanshx/LearnkNow
+* Built automated scraping workflow
+* Implemented content classification pipeline
 
----
-
-## 🧪 CDAC PG-DAI Labs Repository
-
-Collection of AI coursework and practical implementations.
-
-**Stack:** Python • ML • Jupyter
-
-• Deep learning labs
-• NLP experiments
-• Computer vision exercises
-
-👉 https://github.com/harivanshx/cdac-pgdai
+Repository:
+https://github.com/harivanshx/AI-News-Aggregator
 
 ---
 
-## 🌐 EleQtra — Smart Web Project
+### LearnkNow — Developer Learning Platform
 
-Frontend-focused web development project.
+Web application for organizing and managing technical learning resources.
 
-**Stack:** HTML • CSS • JavaScript
+Technologies: JavaScript, Web Development
 
-• Responsive UI design
-• Clean frontend architecture
-
-👉 https://github.com/harivanshx/eleQtra
+Repository:
+https://github.com/harivanshx/LearnkNow
 
 ---
 
-# 💼 Experience Snapshot
+### CDAC PG-DAI Coursework Repository
 
-### 🎓 PG-DAI AI Trainee — C-DAC Noida
+Collection of academic implementations covering deep learning, NLP, and computer vision experiments.
 
-Hands-on ML systems, NLP pipelines, deployment workflows.
-
-### 💻 Junior Software Developer — KodVidya Technologies
-
-• Built full-stack applications using MERN
-• Developed REST APIs and integrated frontend systems
-• Worked with AWS deployment pipelines
-
-### ✍️ AI Blogger — Medium
-
-Writes educational articles on AI, ML, NLP, and career guidance.
+Repository:
+https://github.com/harivanshx/cdac-pgdai
 
 ---
 
-# 🛠 Skills
+### EleQtra — Web Development Project
 
-## 🤖 ML / AI
+Frontend-focused web project demonstrating responsive design and structured UI development.
 
-PyTorch • TensorFlow • Transformers • Scikit-learn
-NLP • Computer Vision • Model Evaluation • Prompt Engineering
+Technologies: HTML, CSS, JavaScript
 
-## ⚙️ Backend & Deployment
-
-FastAPI • Flask • Docker • Git • Linux • MLOps
-
-## 🌐 Web Stack
-
-React • Next.js • Node.js • MongoDB • Tailwind
-
-## 🧰 Tools
-
-Hugging Face • Postman • Streamlit • VS Code
+Repository:
+https://github.com/harivanshx/eleQtra
 
 ---
 
-# 🎓 Education
+## Professional Experience
 
-**PG Diploma — Artificial Intelligence**
-C-DAC Noida (2025–Present)
+Post Graduate AI Trainee — C-DAC Noida
+Working on applied machine learning systems, NLP pipelines, and deployment workflows.
 
-**B.Tech — Computer Science**
+Junior Software Developer — KodVidya Technologies
+Developed full-stack web applications using MERN stack, built REST APIs, and assisted in cloud deployment.
+
+Full-Stack Developer Intern — inQbator
+Worked on frontend and backend development, API integration, and performance optimization.
+
+---
+
+## Technical Skills
+
+Machine Learning and AI
+PyTorch, TensorFlow, Transformers, Scikit-learn, NLP, Computer Vision
+
+Backend and Deployment
+FastAPI, Flask, Docker, Linux, REST APIs, MLOps workflows
+
+Web Technologies
+React, Node.js, MongoDB, JavaScript
+
+Tools and Platforms
+Hugging Face, Streamlit, Git, Postman, VS Code
+
+---
+
+## Education
+
+Post Graduate Diploma in Artificial Intelligence
+C-DAC Noida
+
+Bachelor of Technology in Computer Science
 Punjab Technical University
 
 ---
 
-# 📚 Currently Learning
+## Current Focus
 
-📖 Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
-Focus: Production ML workflows & deployment patterns.
-
----
-
-# 🧭 Engineering Philosophy
-
-• Build systems that run — not demos that impress
-• Prefer clarity over hype
-• Focus on deployable AI
-• Iterate → measure → improve
+Deepening expertise in production ML system design, model deployment strategies, and scalable AI architecture.
 
 ---
 
-# 📬 Connect
+## Contact
 
-LinkedIn → https://linkedin.com/in/harivanshbhardwaj
-Portfolio → https://harivanshbhardwaj.in
-Blog → https://harivanshbhardwaj.in/blog
-GitHub → https://github.com/harivanshx
+LinkedIn:
+https://linkedin.com/in/harivanshbhardwaj
 
----
+Portfolio:
+https://harivanshbhardwaj.in
 
-<p align="center">
-  Thanks for visiting — always building something new 🚀
-</p>
+GitHub:
+https://github.com/harivanshx
